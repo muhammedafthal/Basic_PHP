@@ -16,7 +16,7 @@
         $php = true;        
         $var1 = NULL;
 
-        # By this way we are printing anything in PHP.
+        # By this way we are printing anything in PHP(echo).
         echo $text;
         echo "<br>";        
         echo $number;
